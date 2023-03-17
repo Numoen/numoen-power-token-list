@@ -1,0 +1,39 @@
+{
+  "name": "Numoen Power Token List (42220)",
+  "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/numoen.svg",
+  "version": "0.0.1",
+  "tags": {},
+  "timestamp": "2023-03-17T22:50:24.195Z",
+  "tokens": [
+    {
+      "chainId": 42220,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0e44Dc63252D2b6da0A89722Db21c945439ee05a",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42220/0x0e44Dc63252D2b6da0A89722Db21c945439ee05a/icon.png"
+    },
+    {
+      "chainId": 42220,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4ed8a0f06241A4d9f8B4e03C52c240425B723BAf",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42220/0x4ed8a0f06241A4d9f8B4e03C52c240425B723BAf/icon.png"
+    },
+    {
+      "chainId": 42220,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7cb7002cF8d3ceE6968B5c158FC8Ec9dc5D8DE91",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42220/0x7cb7002cF8d3ceE6968B5c158FC8Ec9dc5D8DE91/icon.png"
+    }
+  ]
+}

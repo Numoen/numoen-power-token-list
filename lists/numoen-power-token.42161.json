@@ -1,0 +1,159 @@
+{
+  "name": "Numoen Power Token List (42161)",
+  "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/numoen.svg",
+  "version": "0.0.1",
+  "tags": {},
+  "timestamp": "2023-03-17T22:50:23.016Z",
+  "tokens": [
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x02b722e00de906D0a7c14C3Da006cE7574e05FE1",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x02b722e00de906D0a7c14C3Da006cE7574e05FE1/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1f52c0a266927A5c7FBA499C02dAE1FaF521addD",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x1f52c0a266927A5c7FBA499C02dAE1FaF521addD/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2CDE153A4e20dC2130cbedaFD92C52B3c8d413a5",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x2CDE153A4e20dC2130cbedaFD92C52B3c8d413a5/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2ba6A180dd4e103e97E6D6A60351151d725b5047",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x2ba6A180dd4e103e97E6D6A60351151d725b5047/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3e5F7A53782e4bAAe03252b36A70bCd5fBD02800",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x3e5F7A53782e4bAAe03252b36A70bCd5fBD02800/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4020eBFC8Fad90FEA1787547Af68695D55B5626e",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x4020eBFC8Fad90FEA1787547Af68695D55B5626e/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4574e595647e6158C0C488273Faf9bf9Ef3C5EC6",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x4574e595647e6158C0C488273Faf9bf9Ef3C5EC6/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5bA0B635568716727F19709b878F93E5b8752E61",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x5bA0B635568716727F19709b878F93E5b8752E61/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x68436499f01Ed8fCB60742D8a4F441283036DF6C",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x68436499f01Ed8fCB60742D8a4F441283036DF6C/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8C3fCc997462B5D56DbeC832Fcf5e3B96dA565a6",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x8C3fCc997462B5D56DbeC832Fcf5e3B96dA565a6/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x90Ab12869c1E983FB51C061af1dBbACCc2F29Fbd",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x90Ab12869c1E983FB51C061af1dBbACCc2F29Fbd/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA73AF1b0d1903405d072b73417c8498464E6FAD1",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0xA73AF1b0d1903405d072b73417c8498464E6FAD1/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE5da3Ba768A242540061C3AA1Cd242a1533413f9",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0xE5da3Ba768A242540061C3AA1Cd242a1533413f9/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xFb2f36a1A67736da740DD0004b553977a1767205",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0xFb2f36a1A67736da740DD0004b553977a1767205/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa49D5781aAA4445bc9691AD36faaf9eF00D9aA22",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0xa49D5781aAA4445bc9691AD36faaf9eF00D9aA22/icon.png"
+    }
+  ]
+}
