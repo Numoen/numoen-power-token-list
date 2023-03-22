@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/numoen.svg",
   "version": "0.0.1",
   "tags": {},
-  "timestamp": "2023-03-21T19:03:18.291Z",
+  "timestamp": "2023-03-22T01:16:36.891Z",
   "tokens": [
     {
       "chainId": 42220,
@@ -34,6 +34,16 @@
       "isToken": true,
       "address": "0x7cb7002cF8d3ceE6968B5c158FC8Ec9dc5D8DE91",
       "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42220/0x7cb7002cF8d3ceE6968B5c158FC8Ec9dc5D8DE91/icon.png"
+    },
+    {
+      "chainId": 42220,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB1c873B1940e03000871934828B869B8c8F72911",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42220/0xB1c873B1940e03000871934828B869B8c8F72911/icon.png"
     }
   ]
 }
