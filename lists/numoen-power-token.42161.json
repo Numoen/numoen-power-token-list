@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/numoen.svg",
   "version": "0.0.1",
   "tags": {},
-  "timestamp": "2023-03-23T13:06:25.616Z",
+  "timestamp": "2023-03-23T19:02:35.586Z",
   "tokens": [
     {
       "chainId": 42161,
@@ -122,6 +122,16 @@
       "name": "name",
       "isNative": false,
       "isToken": true,
+      "address": "0x8Ba910af75F4545C8B53Bf8292a2664a4f5399fd",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x8Ba910af75F4545C8B53Bf8292a2664a4f5399fd/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
       "address": "0x8C3fCc997462B5D56DbeC832Fcf5e3B96dA565a6",
       "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0x8C3fCc997462B5D56DbeC832Fcf5e3B96dA565a6/icon.png"
     },
@@ -154,6 +164,16 @@
       "isToken": true,
       "address": "0xE5da3Ba768A242540061C3AA1Cd242a1533413f9",
       "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0xE5da3Ba768A242540061C3AA1Cd242a1533413f9/icon.png"
+    },
+    {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "symbol",
+      "name": "name",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF3c060aa6DF1b5715B9fd103DcCA5D0958964Dc8",
+      "logoURI": "https://raw.githubusercontent.com/numoen/numoen-power-token-list/master/assets/42161/0xF3c060aa6DF1b5715B9fd103DcCA5D0958964Dc8/icon.png"
     },
     {
       "chainId": 42161,
